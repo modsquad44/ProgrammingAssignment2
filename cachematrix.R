@@ -1,6 +1,6 @@
 # Two functions, the first calculates and caches the inverse of a matrix, the second takes a matrix and calculates the inverse if not already cached, first it performes a check to make sure original matrix object and inverse matrix object have not been modified since makeCacheMatrix() was last called
 
-rm(list=ls())
+# rm(list=ls())
 
 # The following function creates a special "matrix" object and caches its inverse.
 
